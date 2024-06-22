@@ -84,7 +84,7 @@ body {
     margin: 10px 0;
     text-align: left;
     width: 80%;
-    margin-left: 10%;
+    margin-left: 20%;
 }
 
 input[type="text"], input[type="password"], select {
@@ -107,6 +107,7 @@ button {
     font-size: 15px;
     cursor: pointer;
     margin-top: 20px;
+    wid
 }
 
 button:hover {
@@ -117,8 +118,7 @@ button:hover {
 }
 
 #logo {
-    background-color: black;
-    width: 22px;
-    height: 2px;
-    
+    height: 200px;
+    color: blue;
+    width: 200px;
 }
